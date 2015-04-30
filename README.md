@@ -11,4 +11,4 @@ portable on many other platforms.
 </b></font>
 
 <table border='0'><tr>
-<td><img src='https://web.archive.org/web/20150430112929/http://grafx2.googlecode.com/svn/wiki/pictures/sshot_svn1398.png' /></td>
+<td><img src='https://web.archive.org/web/20150430112929/http://grafx2.googlecode.com/svn/wiki/pictures/sshot_svn1398.png'/></td>
