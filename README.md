@@ -1,4 +1,4 @@
-#Griffin
+# Griffin
 
 XGriffin is an open source program for drawing bitmaps created on a fork of grafx2.
 
